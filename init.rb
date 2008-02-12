@@ -1,0 +1,1 @@
+ActionController::Base.send :prepend_before_filter, Arturaz::SetNamesUtf8
